@@ -1,6 +1,4 @@
-
-
-<!DOCTYPE html>
+<!DOCKTYPE html>
 <html lang="en" style="scroll-behavior: smooth;">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +7,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 <body >
-<header class=" bg-dark" style="position:fixed; width:100%;z-index:1 ;">
+<header class=" bg-dark" style="position:fixed; width:100% ;z-index:1 ;">
     <div class="row text-white">
         <div class="col-md-6 col-9 p-4 pl-5 ">
             <h2>Adithraj N</h2>
@@ -19,7 +17,6 @@
               <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
-                
                 <div class="collapse navbar-collapse " id="navbarSupportedContent">
                   <ul class="navbar-nav my-auto">
                     <li class="nav-item active">
@@ -34,7 +31,6 @@
                       <a class="nav-link text-white" href="#contact">Contact</a>
                     </li>
                   </ul>
-                 
                 </div>
               </nav>
         </div>
@@ -56,7 +52,6 @@
       </div>
     </div>
   </div>
-
 </section>
 <section class="bg-light p-5" id="services">
   <div class="container ">
@@ -73,7 +68,6 @@
       </div>
      </div>
       <div class="card-deck col-md-4">
-      
       <div class="card text-center" >
         <img class="card-img-top  " src="W.PNG" alt="Card image cap">
         <div class="card-body">
@@ -93,11 +87,9 @@
         </div>
       </div>
      </div>
-
     </div>
   </div>
 </section>
-
 <section class="bg-light p-5" id="experience">
   <div class="container ">
     <h2 class="text-center">Experiences</h2>
@@ -107,18 +99,15 @@
         <img class="card-img-top" src="W.PNG" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title ">DEVELOPING</h5>
-          
           <a href="#" class="btn btn-secondary">samples</a>
         </div>
       </div>
      </div>
       <div class="card-deck col-md-4">
-      
       <div class="card text-center" >
         <img class="card-img-top  " src="W.PNG" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title">PROGRAMMING</h5>
-          
           <a href="https://leetcode.com/list" class="btn btn-secondary">samples</a>
         </div>
       </div>
@@ -128,12 +117,10 @@
         <img class="card-img-top" src="W.PNG" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title ">ANALYSING</h5>
-          
           <a href="#" class="btn btn-secondary">samples</a>
         </div>
       </div>
      </div>
-
     </div>
   </div>
 </section>
@@ -161,7 +148,6 @@
   </div> 
   </div>
 </section>
-    
 <footer class="bg-dark ">
   <div class="container">
     <div class="row">
