@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>mysite</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 <body >
-<header class=" bg-dark" style="position:fixed; width:100% ;z-index:1 ;">
+<header class=" bg-dark" style=" width:100%;z-index:1 ;">
     <div class="row text-white">
-        <div class="col-md-6 col-9 p-4 pl-5 ">
+        <div class="col-md-6 col-9 p-4  ">
             <h2>Adithraj N</h2>
         </div>
         <div class="col-md-6 my-auto">
@@ -20,7 +20,7 @@
                 <div class="collapse navbar-collapse " id="navbarSupportedContent">
                   <ul class="navbar-nav my-auto">
                     <li class="nav-item active">
-                      <a class="nav-link text-white" href="#home">Home <span class="sr-only">(current)</span></a>
+                      <a class="nav-link text-white" href="#home">Home <span class="sr-only"></span></a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link text-white" href="#services">Services</a>
